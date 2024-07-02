@@ -1,0 +1,15 @@
+opencv-python
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+tqdm
+pyyaml
+requests
+pandas
+seaborn
+flask_cors
+flask
+python-dotenv
+pytesseract
